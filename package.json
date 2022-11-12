@@ -34,7 +34,7 @@
     "@react-stately/menu": "^3.4.2",
     "@react-stately/tabs": "^3.2.2",
     "@react-stately/tree": "^3.3.4",
-    "@react-types/menu": "^3.3.0",
+    "@react-types/menu": "^3.7.2",
     "@react-types/shared": "^3.8.0",
     "@sentry-internal/global-search": "^0.3.0",
     "@sentry/integrations": "7.18.0",
